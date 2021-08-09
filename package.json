@@ -1,0 +1,23 @@
+{
+  "name": "hckdao1",
+  "version": "1.0.0",
+  "description": "hack solidity dao nft template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web3scout/hckdao1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web3scout/hckdao1/issues"
+  },
+  "homepage": "https://github.com/web3scout/hckdao1#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "web3": "^1.5.1"
+  }
+}
